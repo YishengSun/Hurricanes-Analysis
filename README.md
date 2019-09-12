@@ -1,16 +1,3 @@
-# A6_pandas_with_joins
-Starting point for Assignment 6
-
-## IS590PR Spring 2019
-Analytical queries with Pandas requiring the joining of multiple DataFrames.
-Also this involves team collaboration through shared GitHub repositories.
-
-### Getting started
-* Decide on your team (2 or 3 students per team).
-* ONLY ONE of your team create a fork of this repository
-* As before, remove the "All_Students" from having access to your repository. 
-* Add your teammates to have Write permission to your repository. That allows 
-them to commit & push to it.
 
 ### The Data
 For this assignment, you’ll need to download data from two completely
