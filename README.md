@@ -16,10 +16,6 @@ database at https://www.ssa.gov/oact/babynames/limits.html  This is also
 a Zipped collection of CSV files.  Tip:  There are many examples in the
 McKinney book that load and analyze these baby name files using Pandas.
 
-**IMPORTANT!  Do not try to commit those ZIP or CSV data files into your
-GitHub repository.**  It can overflow our GitHub storage quota and
-there’s no need to do it anyway.  Set your PyCharm or other git client
-to ignore those data files (leave them as “unversioned files”). 
 
 ### The Programming
 
